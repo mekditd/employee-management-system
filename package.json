@@ -1,0 +1,30 @@
+{
+  "name": "employee-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekditd/employee-management-system.git"
+  },
+  "author": "Tedla B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mekditd/employee-management-system/issues"
+  },
+  "homepage": "https://github.com/mekditd/employee-management-system#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.9.5",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^5.1.1",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^10.0.0",
+    "material-table": "^1.57.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-scripts": "^3.4.0"
+  }
+}
